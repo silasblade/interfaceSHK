@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\visha\\OneDrive\\Documents\\New folder\\New folder\\QLHK.Core6\\QLHK.Core6\\QLHK.Core6.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\OneDrive\\Documents\\GitHub\\interfaceSHK\\QLHK.Core6\\QLHK.Core6\\QLHK.Core6.csproj",
       "projectName": "QLHK.Core6",
-      "projectPath": "C:\\Users\\visha\\OneDrive\\Documents\\New folder\\New folder\\QLHK.Core6\\QLHK.Core6\\QLHK.Core6.csproj",
+      "projectPath": "C:\\Users\\visha\\OneDrive\\Documents\\GitHub\\interfaceSHK\\QLHK.Core6\\QLHK.Core6\\QLHK.Core6.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\visha\\OneDrive\\Documents\\New folder\\New folder\\QLHK.Core6\\QLHK.Core6\\obj\\",
+      "outputPath": "C:\\Users\\visha\\OneDrive\\Documents\\GitHub\\interfaceSHK\\QLHK.Core6\\QLHK.Core6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
